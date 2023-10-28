@@ -1,1 +1,1 @@
-
+let yourArray = [1, true, "Hello", 2, false]
